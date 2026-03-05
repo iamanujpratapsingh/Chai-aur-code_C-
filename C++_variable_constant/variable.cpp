@@ -11,7 +11,7 @@ int main(){
     //constant variable is a variable whose value cannot be changed once it is assigned. It is declared using the keyword 'const'.
     const int uid=1234;
 
-    const=5678; //error: assignment of read-only variable 'const'
+    const int swarnika=5678; //error: assignment of read-only variable 'const'
     
     return 0;
 }
