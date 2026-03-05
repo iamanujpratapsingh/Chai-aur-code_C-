@@ -11,6 +11,6 @@ int main(){
     //constant variable is a variable whose value cannot be changed once it is assigned. It is declared using the keyword 'const'.
     const int uid=1234;
 
-    
+    const
     return 0;
 }
